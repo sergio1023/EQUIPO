@@ -6,7 +6,7 @@ clear
 	##############
 	##IMPORTANTE##
 	##############
-# Dejar unas cuantes líneas de margen ya que al editar la misma línea habrá conflicto 
+# Dejar unas cuantas líneas de margen ya que al editar la misma línea habrá conflicto 
 #y no se subirán los cambios
 useradd juanki
 
@@ -16,5 +16,5 @@ useradd juanki
 
 
 
-#A partir de  Sergio expondrá sus ideas
+#A partir de aquí Sergio expondrá sus ideas
 useradd sergio
