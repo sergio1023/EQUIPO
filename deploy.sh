@@ -8,7 +8,7 @@ clear
 	##############
 # Dejar unas cuantes líneas de margen ya que al editar la misma línea habrá conflicto 
 #y no se subirán los cambios
-
+useradd juanki
 
 
 
@@ -17,3 +17,4 @@ clear
 
 
 #A partir de  Sergio expondrá sus ideas
+useradd sergio
