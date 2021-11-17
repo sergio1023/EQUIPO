@@ -33,4 +33,6 @@ cut -d: -f1,3 /etc/passwd | egrep ':[0-9]{4}$' | cut -d: -f1
 
 #A partir de aquí Sergio expondrá sus ideas
 
+sudo mkdir hola
+sudo rm -r hola
 
